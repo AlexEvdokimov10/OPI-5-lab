@@ -13,6 +13,13 @@ int main() {
 	}
 	rez = (sum + cos(x)) / (pow(x, 2) + 2);
 	cout << rez << endl;
+	if(rez<10){
+		cout<<"Rez<10"<<endl;
+	}
+	else {
+		cout<<"rez>10"<<endl;
+	}
 	system ("pause");
 	return 0;
 }
+
