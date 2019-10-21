@@ -1,0 +1,4 @@
+﻿  Source34344.cpp
+d:\проекти\project5\project5\source34344.cpp(12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\проекти\project5\project5\source34344.cpp(7): warning C4101: b: неиспользованная локальная переменная
+  Project5.vcxproj -> D:\Проекти\Project5\Debug\Project5.exe
